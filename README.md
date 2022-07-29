@@ -5,6 +5,7 @@
 George the Beaver Slack Bot!
 
 ![Screen_Recording_2022-07-29_at_2_27_20_PM_AdobeExpress](https://user-images.githubusercontent.com/103339794/181845783-8f7a47f7-3deb-4ef5-b255-c8ca1da1325b.gif)
+(Duck Dynasty: Too Close for Comfort - Full Episode (Season 1, Episode 6) https://youtu.be/KMVbQ_Wzcg4)
 
 
 George, is a digital beaver, who seeks the make the Slack private channel a functional, and efficient workplace.
