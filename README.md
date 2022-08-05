@@ -33,8 +33,6 @@ Here is a helpful guide for some of the functions included with George:
 
   Forgot the commands? Use the `;guide` command to display the command list.
 
-  Users can also use the `;help` command if they have any questions!
-
 
 
 How to get started:
