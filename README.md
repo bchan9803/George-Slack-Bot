@@ -48,3 +48,5 @@ MAKE SURE YOU HAVE THE FOLLOWING INSTALLED:
 
 Coded by Bryan Chan for the 2022 ACA Technical Project (2022).
 
+
+MIT LICENSE
