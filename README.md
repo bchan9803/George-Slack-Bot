@@ -12,7 +12,7 @@
 
 
 
-George, is a digital beaver, who seeks the make the Slack private channel a functional, and efficient workplace.
+George is a digital beaver, who seeks to make your private Slack channel a functional and efficient workplace.
 
 
 Here is a helpful guide for some of the functions included with George:
