@@ -29,7 +29,7 @@ Here is a helpful guide for some of the functions included with George:
   
   7) `;thumbs up` - Agree with someone? Use the Phil Robertson iconic "thumbs up" GIF to display your agreement. :+1:
   
-  8) `;homie` - Feel the need to display your inner Uncle Si? Use this command to display his iconic quote, "Homie don't play that". :duck::man-gesturing-no:
+  8) `;homie` - Feel the need to display your inner Uncle Si? Use this command to display his iconic quote, "Homie don't play that". 🦆🙅‍♂️
 
   Forgot the commands? Use the `;guide` command to display the command list.
 
