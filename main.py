@@ -129,9 +129,6 @@ def homie_egg(message, say):
     )
 
 
-# WIP
-
-
 
 # App starter
 if __name__ == "__main__":
