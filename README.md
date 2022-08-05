@@ -1,34 +1,46 @@
 # George-Slack-Bot
 2022 ACA Technical Project (Bryan Chan)
 
+<p align="center">
+  George the Beaver Slack Bot!
+</p>
 
-George the Beaver Slack Bot!
+![George-the-Beaver](https://user-images.githubusercontent.com/103339794/183219849-3df172fe-a283-4ab1-9a46-5994a96b25ba.gif)
 
-![Screen_Recording_2022-07-29_at_2_27_20_PM_AdobeExpress](https://user-images.githubusercontent.com/103339794/181845783-8f7a47f7-3deb-4ef5-b255-c8ca1da1325b.gif)
-(Duck Dynasty: Too Close for Comfort - Full Episode (Season 1, Episode 6) https://youtu.be/KMVbQ_Wzcg4)
+
+(Duck Dynasty: Too Close for Comfort (Season 1, Episode 6) https://www.youtube.com/watch?v=KMVbQ_Wzcg4)
+
 
 
 George, is a digital beaver, who seeks the make the Slack private channel a functional, and efficient workplace.
 
 
-Here are some of George's functions:
+Here is a helpful guide for some of the functions included with George:
 
-  1) Greetings
-  - When a new user joins the private channel, George sends a automatic greeting, which includes some of his functionalities.
+  1) `;help` - Use this command followed by your question, so that the channel owner can quickly come to assist you. :hand:
+  
+  2) `;time` - This command will trigger the current date and time. :alarm_clock:
+  
+  3) `;happy bday` - Use this command to send someone in the chat a nice b-day GIF! :gift: :partying_face:
+  
+  4) `;beaver` - A easter egg that sends a GIF of "George the Beaver" from Duck Dynasty. :duck:
+  
+  6) `;happy` - Posts a happy face GIF to express your happiness! :blush:
+  
+  7) `;thumbs up` - Agree with someone? Use the Phil Robertson iconic "thumbs up" GIF to display your agreement. :+1:
+  
+  8) `;homie` - Feel the need to display your inner Uncle Si? Use this command to display his iconic quote, "Homie don't play that". :duck::man-gesturing-no:
 
-  2) Assistance
-  - Whenever a user types in the word, "help", into the chat, George will send a private message to the channel's owner, notifiying the owner of the user   in neeed of assistance.
+  Forgot the commands? Use the `;guide` command to display the command list.
 
-  3) Cheater Detector
-  - Whenever a user types the word, "cheat", or "copy answers", into the chat, George will copy the message, along with the username of the sender, and     send it via private message to the channel's owner.
+  Users can also use the `;help` command if they have any questions!
 
-  4) Easter Eggs
-  - George likes to have fun. If a user types in a specific keyword such as "George" into the chatbox, then George will reply with a GIF.
 
 
 How to get started:
 
-  1) In the main.py file, just enter in the channel name into the variable "channel-name".
+  1) In the main.py file, copy your Slack user ID, and paste it into the variable "owner-user-id", underneath the comment "Main". 
+  2) Run the program!
 
 
 
