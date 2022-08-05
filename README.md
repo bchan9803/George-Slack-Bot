@@ -40,6 +40,10 @@ How to get started:
   1) In the main.py file, copy your Slack user ID, and paste it into the variable "owner-user-id", underneath the comment "Main". 
   2) Run the program!
 
+MAKE SURE YOU HAVE THE FOLLOWING INSTALLED:
+-   Python
+-   Slack Client (pip3 install slack_sdk)
+-   Slack Bolt (pip3 install slack_bolt)
 
 
 Coded by Bryan Chan for the 2022 ACA Technical Project (2022).
