@@ -77,11 +77,9 @@ def cheater_detector(message, client):
         text = f"------------------------------------------------------------------------------------------------ \n⚠️⚠️ *CHEATER DETECTED* ⚠️⚠️ \n\n\n*Original Message:* \n{copied_msg} \n\n*Alleged Cheater:* \n<@{user}> \n\n*Date and Time:* \n{currTime} \n------------------------------------------------------------------------------------------------"
     )
     
-    # ONLY TO BE USED FOR PRESENTATION
-    app.client.chat_postMessage(
-        main_channel_id = "C03QANGL43Y",
-        channel=main_channel_id,
-        text = f"⚠️⚠️ *CHEATER DETECTED* ⚠️⚠️"
+    # Allows cheat report to be seen in chat for ALL to see. (Remove or make it a comment if you only want the message to be seen by the channel owner).
+    say(
+        f"------------------------------------------------------------------------------------------------ \n⚠️⚠️ *CHEATER DETECTED* ⚠️⚠️ \n\n\n*Original Message:* \n{copied_msg} \n\n*Alleged Cheater:* \n<@{user}> \n\n*Date and Time:* \n{currTime} \n------------------------------------------------------------------------------------------------"
     )
 
 
