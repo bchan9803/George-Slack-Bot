@@ -38,7 +38,7 @@ Here is a helpful guide for some of the functions included with George:
 How to get started:
 
   1) In the main.py file, copy your Slack user ID, and paste it into the variable "owner-user-id", underneath the comment "Main". 
-  2) Run the program!
+  2) Run the program via the terminal!
 
 MAKE SURE YOU HAVE THE FOLLOWING INSTALLED:
 -   Python
