@@ -31,6 +31,8 @@ Here is a helpful guide for some of the functions included with George:
   
   8) `;homie` - Feel the need to display your inner Uncle Si? Use this command to display his iconic quote, "Homie don't play that". 🦆🙅‍♂️
 
+  George even has a built-in cheater detector! George will send a private direct message to the server owner if he encounters a channel message with the following key work: "copy".
+  
   Forgot the commands? Use the `;guide` command to display the command list.
 
 
